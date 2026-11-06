@@ -2,8 +2,6 @@
 
 Petite app Mac qui transforme tes dossiers de musique en crates Serato. Chaque sous-dossier devient une crate, et les crates parentes contiennent les morceaux de leurs sous-dossiers.
 
-Version 1.0.0 · © 2026 Jesson DEBAH
-
 Outil indépendant, non affilié à Serato. macOS 13 ou plus récent, Mac Intel ou Apple Silicon.
 
 ## Installation
