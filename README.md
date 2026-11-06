@@ -8,7 +8,7 @@ Outil indépendant, non affilié à Serato. macOS 13 ou plus récent, Mac Intel 
 
 ## Installation
 
-1. Décompresse `Serato-Crates-Sync.zip`, puis glisse **Serato Crates Sync** dans le dossier Applications.
+1. [Télécharge `Serato-Crates-Sync.zip`](https://github.com/jay78/serato-crates-sync-app/releases/latest/download/Serato-Crates-Sync.zip), décompresse-le, puis glisse **Serato Crates Sync** dans le dossier Applications.
 2. Double-clique dessus. macOS le bloque, car l'app n'est pas signée par un compte Apple Developer.
 3. Ouvre **Réglages Système > Confidentialité et sécurité**, descends jusqu'à Serato Crates Sync, puis clique sur **Ouvrir quand même**.
 4. Si macOS demande l'accès à ton dossier Musique ou à un disque externe, accepte : sinon l'app ne peut pas lire tes dossiers.
